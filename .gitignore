@@ -1,0 +1,6 @@
+node_modules/
+.env
+data/
+
+# Nested quote app. This Render service must not include it.
+elite-quote-flow-elitequoteflow.com/
